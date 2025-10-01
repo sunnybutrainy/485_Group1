@@ -7,6 +7,6 @@
 ## Charan Elamparithi Kala - PM
 - Discord setup
 ## Sunny Pak - QA & Documentation Lead
-- Github setup
+- Github setup, Wiki Page
 ------------------------------
 
