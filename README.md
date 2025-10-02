@@ -8,5 +8,6 @@
 - Discord setup
 ## Sunny Pak - QA & Documentation Lead
 - Github setup, Wiki Page
+## Liam Nichol Liam Nichol - Lead Writer
 ------------------------------
 
