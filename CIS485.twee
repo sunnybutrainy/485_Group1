@@ -1,0 +1,76 @@
+:: StoryTitle
+CIS485
+
+
+:: StoryData
+{
+  "ifid": "02DFAE0D-1812-4222-9CDD-7A722EA3EB7A",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Intro",
+  "zoom": 1
+}
+
+
+:: Common {"position":"900,400","size":"100,100"}
+The design team encounters the lack of key accessibility requirements; pressured by company to release by shareholders anyways against WCAG's wishes.
+
+[[Ignore pressure, aim to implement accessibility options->Ethical Choice]]
+[[Listen to the pressure, ignore implementing->Unethical Choice]]
+
+
+:: EC1 {"position":"1200,100","size":"100,100"}
+Shareholders are outrages while users are pleased.
+
+[[outcome1]]
+
+
+:: EC2 {"position":"1200,300","size":"100,100"}
+The company is put back a step
+
+[[The company decides to take a step back->Unethical Choice]]
+
+
+:: Ethical Choice {"position":"1000,200","size":"100,100"}
+The company owner agrees with the continuation of the tool's progress, but shareholders declare that they are tire of waiting for the product
+
+[[The company prioritizes its users->EC1]]
+
+[[The company listens to shareholders->EC2]]
+
+
+:: Intro {"position":"700,400","size":"100,100"}
+Start the Case Study
+
+[[Common]]
+
+
+:: UEC1 {"position":"1300,500","size":"100,100"}
+The shareholders are dissatisfied. The users are satisfied.
+
+[[outcome2]]
+
+
+:: UEC2 {"position":"1300,700","size":"100,100"}
+The shareholders AND the users are dissatisfied.
+
+[[outcome3]]
+
+
+:: Unethical Choice {"position":"1100,600","size":"100,100"}
+Customer service is backed up by people complaining about the changes and wanting to downgrade; people reply by downloading the old version of the tool.
+
+[[Roll everyone back to old version, continue work on new version->UEC1]]
+[[Manage both old and new versions of tool->UEC2]]
+
+
+:: outcome1 {"position":"1400,100","size":"100,100"}
+The web-tool gets the accessibility it needs, but shareholders are slightly displeased. The company admits however that such a delay was necessary for the user-base.
+
+
+:: outcome2 {"position":"1500,500","size":"100,100"}
+The web-tool gets the accessibility it needs, but the company still need to take time to recover from operation costs for managing two versions of the tool.
+
+
+:: outcome3 {"position":"1500,700","size":"100,100"}
+The web-tool fails to get the accessibility tool and is met with backlash, thus damaing AllTogether's rep and losing them money.
