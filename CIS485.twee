@@ -12,11 +12,32 @@ CIS485
 }
 
 
-:: Common {"position":"900,400","size":"100,100"}
-The design team encounters the lack of key accessibility requirements; pressured by company to release by shareholders anyways against WCAG's wishes.
+:: Common {"position":"900,450","size":"100,100"}
+<div style="
+  background-image: url('https://media.discordapp.net/attachments/1421441903177633806/1427988756421414967/pngtree-clipboard-with-sheet-sticker-png-png-image_11470636.png?ex=68f4296a&is=68f2d7ea&hm=20d203e668f201bc45ced9993585ab473612a5492a1fe1aac293fce993605b4e&=&format=webp&quality=lossless&width=720&height=720');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
 
-[[Ignore pressure, aim to implement accessibility options->Ethical Choice]]
-[[Listen to the pressure, ignore implementing->Unethical Choice]]
+  <div style="
+    text-align: center;
+    max-width: 400px;
+  ">
+
+    <p style="color: #333; font-size: 1.1em;">
+      The design team encounters the lack of key accessibility requirements; pressured by company to release by shareholders anyways against WCAG's wishes.
+    </p>
+
+    [[Ignore pressure, aim to implement accessibility options->Ethical Choice]]  
+    <br>
+    [[Listen to the pressure, ignore implementing->Unethical Choice]]
+
+  </div>
+</div>
+
 
 
 :: EC1 {"position":"1200,100","size":"100,100"}
@@ -74,3 +95,5 @@ The web-tool gets the accessibility it needs, but the company still need to take
 
 :: outcome3 {"position":"1500,700","size":"100,100"}
 The web-tool fails to get the accessibility tool and is met with backlash, thus damaing AllTogether's rep and losing them money.
+
+<audio src="
