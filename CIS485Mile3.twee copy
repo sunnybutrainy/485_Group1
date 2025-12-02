@@ -1,0 +1,436 @@
+:: StoryTitle
+CIS485Mile3
+
+
+:: StoryData
+{
+  "ifid": "CFE444F2-C85A-4A61-84CC-B9BFA5C10035",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Intro",
+  "zoom": 1
+}
+
+
+:: EC1 {"position":"1100,200","size":"100,100"}
+Senior leadership supports continued development, believing improvements will strengthen the final product. Meanwhile, shareholders are growing impatient and want the release expedited.
+
+What will you prioritize?
+
+<div style="text-align: center;">
+<img  style="border-radius: 50%; width: 400px;"src="https://media.istockphoto.com/id/1283280410/vector/business-man-with-direction-sign-lost-direction.jpg?s=612x612&w=0&k=20&c=baG7Y0ichh19JCfvtHpXtfLzccVM09Cl2tHyLyo9h8g=">
+</div>
+
+[[Prioritize user needs->EC2]]
+
+[[Align with shareholder demands->UC]]
+
+
+:: EC2 {"position":"1225,200","size":"100,100"}
+Shareholders are dissatisfied with the decision, whereas users respond positively.
+
+[[Next->EC2.1]]
+
+<div style="text-align: center;">
+<img src="https://img.freepik.com/free-vector/angry-person-crowd_52683-32838.jpg" style="border-radius: 50%; width: 400px;">
+</div>
+
+
+:: EC2.1 {"position":"1350,200","size":"100,100"}
+The web-tool successfully integrates accessibility features. While some shareholders express mild dissatisfaction, the company maintains that the delay was essential to support its users.
+
+[[Next->EC2.2]]
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.freepik.com/256/3815/3815150.png?semt=ais_white_label">
+</div>
+
+
+
+:: EC2.2 {"position":"1475,200","size":"100,100"}
+Although the web-tool has been delivered with improvements, stakeholders now expect more from AllTogether. They insist the company must be transparent with users. AllTogether is challenged to determine how it can openly prioritize accessibility for disabled users while still delivering the product on schedule.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/6067/6067130.png">
+</div>
+
+[[Next->EC2.3]]
+
+
+:: EC2.3 {"position":"1600,200","size":"100,100"}
+The development team must determine how to plan for future releases, aiming to satisfy both users and shareholders while maintaining realistic timelines.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/5409/5409715.png">
+</div>
+
+[[Include both able-bodied and disabled users as beta testers->EC2.3.1]]
+
+[[Maintain transparency about development progress->EC2.3.2]]
+
+
+:: EC2.3.1 {"position":"1725,125","size":"100,100"}
+The upgraded web-tool demonstrates genuine consideration for all users, incorporating feedback regularly. However, some stakeholders remain dissatisfied.
+
+<div style="text-align: center;">
+<img src="https://www.shutterstock.com/image-vector/customer-feedback-giving-rating-based-600nw-2145461039.jpg" style="border-radius: 50%; width: 400px;">
+</div>
+
+[[Next->Outcome1]]
+
+
+:: EC2.3.2 {"position":"1725,275","size":"100,100"}
+While transparency around the web-tool’s development is achieved, a company-focused perspective results in certain user needs being overlooked.
+
+<div style="text-align: center;">
+<img src="https://media.istockphoto.com/id/1159618337/vector/missed-target.jpg?s=612x612&w=0&k=20&c=4Pf53mRsMK80KeoqaUw1Nq8kP9xqEDmeh7Wik4wQ-x8=" style="border-radius: 40%; width: 400px;">
+</div>
+
+
+[[Next->Outcome2]]
+
+
+:: Intro {"position":"700,400","size":"100,100"}
+<style>
+body {
+  background-color: #000;
+  color: #dcdcdc;
+  font-family: "Segoe UI", Arial, sans-serif;
+  text-align: center;
+  margin-top: 15%;
+}
+
+h1 {
+  color: #9ecbff;
+  font-size: 1.6em;
+}
+
+a {
+  color: #7bb2ff;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<h1>Start the Case Study</h1>
+<!-- Background Audio -->
+<audio id="bgm" autoplay loop><source src="https://www.epidemicsound.com/sound-effects/tracks/978900db-e2b9-4503-b1a0-e95b6f5965be/" type="audio/mpeg">
+</audio>
+<p style="margin-top: 1em;">Prepare to explore the ethical dilemmas surrounding accessibility and software development.</p>
+
+<img src="https://cdn-icons-png.freepik.com/256/5935/5935473.png?semt=ais_white_label">
+
+
+<div style="text-align: left;">
+Created By:
+Ashleen Athwal - Graphic Desginer
+Charan Elamparithi Kala - PM
+Sunny Pak - QA &amp; Documentation Lead
+Liam Nichol - Lead Writer
+
+How To Play
+
+1. Scroll down and click "Start" 
+
+2. Read the scenarios displayed 
+     You’ll be presented with short story sections that describe a situation or challenge.
+
+3. Choose your response from one of the options
+     At the end of each section, you’ll see multiple options.
+     Click the link that represents the decision you want to make.
+ </div>
+
+
+ <button style="font-size: 65px;" type="button">[[START]]</button>
+
+
+
+:: Outcome 5 {"position":"1850,775","size":"100,100"}
+Both the project manager and UX designer are removed from their roles due to ineffective project management and failure to meet the needs of any stakeholders.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/779/779864.png">
+</div>
+
+<audio src="https://files.catbox.moe/vj85jh.mp3" autoplay></audio>
+
+THE END
+
+[[Restart->START]]
+
+
+:: Outcome1 {"position":"1850,125","size":"100,100"}
+The project manager receives both recognition and criticism for how the release was handled. The UX designer retains their role moving forward.
+
+<audio src="https://files.catbox.moe/m5nhdr.mp3" autoplay></audio>
+
+
+<div style="text-align: center;">
+<img style="width:250px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/756/756329.png">
+</div>
+
+THE END
+
+[[Restart->START]]
+
+
+:: Outcome2 {"position":"1850,275","size":"100,100"}
+The project manager and UX designer remain in their positions. However, rising expectations around user feedback make it clear that the company must do better going forward.
+
+<audio src="https://files.catbox.moe/m5nhdr.mp3" autoplay></audio>
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/8510/8510366.png">
+</div>
+
+THE END
+
+[[Restart->START]]
+
+
+:: Outcome3 {"position":"1850,500","size":"100,100"}
+Both the project manager and UX designer retain their positions. However, the company cautions that although the project was ultimately successful, it placed significant financial strain on the organization.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/8348/8348232.png">
+</div>
+
+<audio src="https://files.catbox.moe/m5nhdr.mp3" autoplay></audio>
+
+THE END
+
+[[Restart->START]]
+
+
+:: Outcome4 {"position":"1850,625","size":"100,100"}
+The project manager is removed from the team due to the outcome of the release, while the UX designer retains their position.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/5233/5233949.png">
+</div>
+
+THE END
+
+[[Restart->START]]
+
+
+:: Project Manager {"position":"950,525","size":"100,100"}
+As the Project Manager, you discover that key accessibility requirements have not been met. However, the company is under pressure from shareholders to release the product despite non-compliance with WCAG standards.
+
+How do you proceed?
+
+<img style="width:200px; height:200px; display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/26a0_color.png">
+
+[[Prioritize accessibility and push back against pressure->EC1]]
+
+[[Proceed with release despite accessibility concerns->UC1]]
+
+
+:: START {"position":"825,400","size":"100,100"}
+Choose your role in this case study:
+
+<div style="display: flex; gap: 20px;">
+
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+  <div style="text-align: center;">
+  <img src="https://png.pngtree.com/png-vector/20250101/ourmid/pngtree-graphic-designer-working-on-laptop-in-modern-workspace-png-image_14997016.png" style="width: 200px; ">
+  </div>
+    <h3>[[UX Designer]]</h3>
+    <p>Responsible for improving accessibility and user experience. Your focus is on usability, inclusivity, and how design choices impact real users.</p>
+  </div>
+  
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+  <div style="text-align: center;">
+  <img src="https://framerusercontent.com/images/vRXGlgIXtohwi8aqdhv21ExomnI.png" style="width: 300px;">
+  </div>
+
+    <h3>[[Project Manager]]</h3>
+    <p>Leads the project strategy, balancing stakeholder expectations, timelines, and resources. Your decisions influence delivery and overall project direction.</p>
+  </div>
+  
+</div>
+
+
+
+:: UC {"position":"1150,375","size":"100,100"}
+The company experiences a setback as a result of the decision.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/256/14602/14602291.png">
+</div>
+
+[[Next->UC1]]
+
+
+:: UC1 {"position":"1100,600","size":"100,100"}
+Customer service becomes overwhelmed as users complain about recent changes and request to downgrade. Many begin reverting to the previous version of the tool.
+
+How do you respond?
+
+<div style="text-align: center;">
+<img src="https://media.istockphoto.com/id/1139617600/vector/angry-older-men-and-women-of-the-telephone-operator.jpg?s=612x612&w=0&k=20&c=HbuTpfaBi8QmPfXQR4KOII97n0RIRx3WcjxUWZ2cyZY=" style="border-radius: 50%; width: 400px;">
+</div>
+
+
+
+[[Rollback all users to the old version->UC1.1]]
+
+[[Continue supporting both the old and new versions->UC1.2]]
+
+
+:: UC1.1 {"position":"1225,500","size":"100,100"}
+Both shareholders and users are dissatisfied.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/10130/10130489.png">
+</div>
+
+[[Next->UC1.1.1]]
+
+<audio src="https://files.catbox.moe/vj85jh.mp3" autoplay></audio>
+
+
+:: UC1.1.1 {"position":"1350,500","size":"100,100"}
+The company accelerates development of the new version, while maintaining the old one continues to incur operational costs. However, by reverting to active development rather than ongoing operation, the company avoids additional expenses for the partially implemented new version.
+
+<div style="text-align: center;">
+<img style="width:250px; height:300px;"
+src="https://cdn-icons-png.flaticon.com/512/10017/10017583.png">
+</div>
+
+[[Next->UC1.1.2]]
+
+
+:: UC1.1.2 {"position":"1475,500","size":"100,100"}
+Following the rollback to the older version and the delay of the new one, the company must determine how to best meet the needs of both users and stakeholders. With resources divided between maintaining the existing version and continuing development of the new version, leadership must now decide how to move forward.
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img style="width:200px; height:200px;" src="https://cdn-icons-png.flaticon.com/512/747/747685.png">
+  <img style="width:200px; height:200px;" src="https://cdn-icons-png.flaticon.com/512/8443/8443368.png">
+</div>
+
+
+[[Next->UC1.1.3]]
+
+
+:: UC1.1.3 {"position":"1600,500","size":"100,100"}
+As a final measure, the development team is allocated additional budget to explore implementation options, aiming to determine what would best satisfy both stakeholders and users. After repeated back-and-forth discussions, only one viable path remains.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/781/781831.png">
+</div>
+
+[[Consult users and stakeholders on improvements->UC1.1.4]]
+
+
+:: UC1.1.4 {"position":"1725,500","size":"100,100"}
+Both users and stakeholders are reasonably satisfied with the outcome, as feedback from both groups was incorporated into the tool’s development. Although minor flaws remain, they can be resolved over time. The company still incurs financial losses; however, because both parties are aligned, phasing out the older version becomes easier as they collectively adopt the new one.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/12486/12486905.png">
+</div>
+
+<audio src="https://files.catbox.moe/m5nhdr.mp3" autoplay></audio>
+
+[[Next->Outcome3]]
+
+
+:: UC1.2 {"position":"1225,700","size":"100,100"}
+Both shareholders and users are dissatisfied.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/10130/10130489.png">
+</div>
+
+<audio src="https://files.catbox.moe/vj85jh.mp3" autoplay></audio>
+
+[[Next->UC1.2.1]]
+
+
+:: UC1.2.1 {"position":"1350,700","size":"100,100"}
+The company must accelerate development of the new version, while maintaining the old one continues to generate operational costs. In addition, continued investment is required to support the unfinished “beta” version during development.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://www.clipartmax.com/png/full/265-2655834_work-in-progress-icon.png">
+</div>
+
+[[Next->UC1.2.2]]
+
+
+:: UC1.2.2 {"position":"1475,700","size":"100,100"}
+The company reaches a critical point and must decide how to continue maintaining the old version while funding development of the new one. A strategic decision is required soon to determine the future direction of the tool.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/10248/10248204.png">
+</div>
+
+[[Next->UC1.2.3]]
+
+
+:: UC1.2.3 {"position":"1600,700","size":"100,100"}
+The development team must decide which version to maintain moving forward: the new version, which contains flaws, or the older version, if the project needs to be scaled back.
+
+<div style="text-align: center;">
+<img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/laptop-vs-desktop-split-screen-battle-feature.jpg" style="border-radius: 50%; width: 400px;">
+</div>
+
+[[Maintain the new version->UC2]]
+
+[[Revert to the old version->UC3]]
+
+
+:: UC2 {"position":"1725,625","size":"100,100"}
+The web-tool successfully achieves the required accessibility features. However, the company now needs time to recover from the costs of maintaining two versions simultaneously. This outcome frustrates shareholders, and funding decreases further due to the earlier misallocation of resources.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/6770/6770528.png">
+</div>
+
+[[Next->Outcome4]]
+
+
+:: UC3 {"position":"1725,775","size":"100,100"}
+The web-tool fails to comply with accessibility standards, triggering backlash that damages AllTogether’s reputation and causes financial loss. As a result, users lose confidence in the product and begin turning to competitors.
+
+<div style="text-align: center;">
+<img style="width:200px; height:200px;"
+src="https://cdn-icons-png.flaticon.com/512/5961/5961489.png">
+</div>
+
+[[Next->Outcome 5]]
+
+
+:: UX Designer {"position":"950,275","size":"100,100"}
+The design team identifies that key accessibility requirements are missing. However, under pressure from the company to meet release deadlines and shareholder expectations, development is urged to proceed without resolving them, despite WCAG compliance concerns.
+
+How do you respond?
+
+<img style="width:200px; height:200px; display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/26a0_color.png">
+
+[[Prioritize accessibility and push back against the pressure->EC1]]
+
+[[Proceed with release despite accessibility concerns->UC1]]
