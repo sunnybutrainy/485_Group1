@@ -2,6 +2,7 @@
 
 ## Ashleen Athwal - Graphic Designer
 - Twine development
+- Plotline
 ## Charan Elamparithi Kala - PM
 - Discord setup
 - Twine development
